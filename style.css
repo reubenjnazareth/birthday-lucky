@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+body {
+
+    font-family: 'Prompt', sans-serif;
+    text-align: center ;
+    background-color: rgb(228, 224, 184);
+}
+
+h1 {
+    font-size: 0.8in;
+}
+
+.container {
+    margin-top: 1in;
+    font-size: x-large;
+}
+
+.input-label {
+
+}
+
+#date-of-birth, #lucky-number {
+    max-width: 258px;
+    margin: 1rem auto;
+    border-radius: 0.3rem;
+}
+
